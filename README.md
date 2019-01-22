@@ -1,3 +1,3 @@
 # timer
-学習サイトCODEPREPでタイマーを作成しました。
+タイマーを作成しました。
 https://shoko-jp.github.io/timer/.
